@@ -6,6 +6,12 @@
 
 > Тестовое задание на должность «Фронтенд разработчик React».
 
+## Скриншоты
+
+| Вход | Диалог | Новый чат |
+|------|--------|-----------|
+| ![Вход](docs/screenshots/1-login.png) | ![Диалог](docs/screenshots/2-chat.png) | ![Новый чат](docs/screenshots/3-new-chat.png) |
+
 ## Возможности
 
 - Вход по данным инстанса GREEN-API (`idInstance`, `apiTokenInstance`, `apiUrl`).
